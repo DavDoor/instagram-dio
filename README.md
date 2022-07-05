@@ -1,7 +1,5 @@
 # instagram-dio
 
-# Oi, tudo bem? Chegou aqui através do curso, certo?
-
 Esse é o repositório da nossa aula de Flexbox da Dio.me, na qual aprendi a fazer a interface de login do Instagram! 
 
 ### Os requisitos são:
